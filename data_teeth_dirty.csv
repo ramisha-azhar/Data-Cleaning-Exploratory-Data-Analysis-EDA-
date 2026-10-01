@@ -1,0 +1,375 @@
+ID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,F,8,Korogocho,,NO,4,SI,SI,1,NO,NO,NO,1,2,2,0,0,0,0,0,0,24,NO,4,0,0,solo smalto,inf avanzato,2,aumentato ,aperto,nessuno,nasale,deglutizione atipica,normale
+2,F,9,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,0,2,2,2,0,0,5,1,0,24,NO,3,0,0,no,neutra,2,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+3,F,8,Korogocho,,NO,4,NO,SI,2,NO,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+4,M,8,Korogocho,,NO,3,NO,SI,1,SI,NO,SI,0,2,0,1,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+5,M,8,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+6,F,8,Korogocho,,SI,3,NO,SI,2,SI,NO,SI,0,2,2,2,0,0,1,2,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+7,M,8,Korogocho,,SI,4,NO,SI,1,SI,NO,NO,0,2,2,0,0,0,1,0,0,24,NO,0,2,1,no,sup avanzato,0,normale,normale,nessuno,nasale,no,normale
+8,M,8,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,1,2,0,0,0,0,0,0,0,24,NO,0,0,1,solo smalto,neutra,0,normale,normale,nessuno,nasale,no,normale
+9,F,8,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,0,1,0,1,0,0,2,1,0,24,NO,0,0,0,no,neutra,1,diminuito,normale,nessuno,nasale,deglutizione atipica,normale
+10,M,8,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,1,0,0,no,neutra,2,aumentato ,normale,nessuno,nasale,deglutizione atipica,normale
+11,F,8,Korogocho,,NO,3,NO,SI,1,SI,SI,SI,0,2,0,1,0,0,8,0,0,24,NO,0,0,1,no,neutra,2,normale,normale,nessuno,nasale,deglutizione atipica,normale
+12,F,8,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,0,2,0,2,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+13,F,8c,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,1,3,2,3,0,0,8,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,aperto,nessuno,nasale,deglutizione atipica,tectolabiale
+14,F,7,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,1,1,0,0,0,0,1,0,0,24,NO,0,0,0,solo smalto,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+15,M,7,Korogocho,,NO,4,NO,SI,1,SI,SI,SI,0,2,2,2,0,0,2,3,0,24,NO,0,0,0,solo smalto,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+16,M,7,Korogocho,,NO,4,NO,SI,2,SI,SI,NO,0,3,0,0,0,0,0,0,0,24,NO,0,1,0,no,inf avanzato,2,diminuito,aperto,inverso,nasale,deglutizione atipica,normale
+17,M,6,Korogocho,,SI,4,NO,SI,2,NO,NO,NO,0,2,2,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,tectolabiale
+18,F,10,Korogocho,,NO,4,NO,SI,3,SI,NO,NO,0,1,0,2,0,0,0,0,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+19,F,7,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,2,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+20,M,8,Korogocho,,NO,4,NO,SI,2,NO,NO,NO,0,2,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,dito,normale
+21,F,8,Korogocho,,NO,4,NO,SI,2,NO,NO,SI,0,2,0,2,0,0,0,0,0,24,NO,0,0,0,no,neutra,2,diminuito,normale,nessuno,nasale,no,normale
+22,F,8,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,1,2,2,1,0,0,5,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,aperto,destro,nasale,no,normale
+23,M,9,Korogocho,,SI,4,NO,SI,3,SI,NO,SI,0,1,1,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+24,F,7,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,0,1,1,0,0,0,10,0,0,24,NO,0,0,0,no,inf avanzato,2,aumentato ,aperto,nessuno,orale,no,normale
+25,F,11,Korogocho,,NO,4,NO,SI,2,SI,NO,NO,0,2,2,4,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+26,M,8,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,0,2,2,0,0,0,6,0,0,24,NO,1,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,linguale
+27,F,10,Korogocho,,NO,4,NO,SI,2,SI,NO,NO,0,1,0,4,0,0,0,0,0,24,NO,1,0,0,no,neutra,2,aumentato ,aperto,nessuno,nasale,deglutizione atipica,normale
+28,M,8,Korogocho,,NO,4,NO,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+29,M,8,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,0,1,1,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+30,F,8,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,0,2,2,2,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,tectolabiale
+31,F,9,Korogocho,,SI,4,NO,SI,2,NO,NO,SI,0,2,2,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+32,F,5,Dandora,,SI,4,NO,SI,2,SI,SI,SI,0,1,0,3,0,0,0,0,0,20,NO,0,1,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+33,M,5,Dandora,,SI,4,NO,NO,,SI,SI,SI,0,2,2,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+34,M,5,Dandora,,NO,4,NO,SI,1,NO,NO,SI,0,1,1,0,0,0,2,0,0,20,NO,0,0,0,no,neutra,2,normale,profondo,nessuno,nasale,no,normale
+35,F,6,Dandora,,SI,4,NO,NO,,SI,NO,SI,0,1,2,0,0,0,6,0,0,24,NO,0,0,0,solo smalto,neutra,1,aumentato ,profondo,nessuno,nasale,no,normale
+36,F,5,Dandora,,SI,4,NO,NO,,SI,NO,NO,0,2,2,0,0,0,10,0,0,20,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+37,M,4,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,1,1,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,2,diminuito,aperto,nessuno,nasale,no,normale
+38,F,5,Dandora,,NO,4,NO,SI,1,SI,SI,SI,0,1,2,0,0,0,1,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+39,F,5,Dandora,,NO,4,NO,SI,1,SI,NO,NO,0,1,1,0,0,0,5,0,0,20,NO,0,0,0,no,inf avanzato,2,diminuito,aperto,nessuno,nasale,no,normale
+40,M,4,Dandora,,SI,4,NO,SI,1,SI,SI,SI,0,3,2,0,0,0,17,0,0,20,NO,0,0,0,no,neutra,2,diminuito,aperto,nessuno,nasale,no,normale
+41,F,4,Dandora,,NO,4,NO,SI,2,SI,SI,SI,0,2,1,0,0,0,7,0,0,20,NO,0,1a,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+42,F,6,Dandora,,NO,4,NO,SI,2,SI,SI,NO,0,2,1,1,0,0,6,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,tectolabiale
+43,M,7,Dandora,,NO,4,NO,SI,-2,SI,NO,SI,0,2,1,1,0,0,7,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+44,F,8,Dandora,,SI,4,NO,SI,3,SI,SI,SI,0,2,2,2,0,0,6,0,0,24,NO,0,0,1,no,neutra,1,diminuito,aperto,nessuno,nasale,no,normale
+45,F,6,Dandora,,NO,4,NO,SI,1,NO,NO,NO,0,1,1,0,0,0,7,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,profondo,nessuno,nasale,no,normale
+46,M,6,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,2,1,0,0,0,0,0,0,24,NO,0,0,0,no,sup avanzato,1,normale,normale,nessuno,nasale,no,normale
+47,F,6,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,2,1,0,0,0,0,1,0,24,NO,0,0,0,no,inf avanzato,2,aumentato ,aperto,nessuno,nasale,no,normale
+48,M,12,Dandora,,NO,4,NO,NO,,SI,SI,SI,0,2,1,0,0,0,2,3,0,28,NO,0,0,0,no,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+49,M,7,Dandora,,NO,4,NO,NO,,SI,SI,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,sup avanzato,1,diminuito,normale,nessuno,nasale,no,normale
+50,F,6,Dandora,,NO,4,NO,NO,,NO,NO,SI,0,1,1,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+51,M,6,Dandora,,SI,4,NO,NO,,SI,SI,SI,0,2,1,0,0,0,6,1,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+52,F,8,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,2,1,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+53,M,5,Dandora,,SI,4,NO,NO,,SI,SI,NO,0,2,2,0,0,0,0,0,0,20,NO,1,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+54,F,4,Dandora,,NO,4,NO,NO,,SI,SI,SI,0,1,1,0,0,0,2,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+55,F,7,Dandora,,NO,4,NO,SI,3,NO,NO,NO,0,1,1,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+56,M,7,Dandora,,NO,4,NO,NO,,NO,NO,SI,0,2,2,2,0,0,4,1,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+57,F,6,Dandora,,NO,4,NO,NO,,SI,SI,SI,0,2,1,0,0,0,4,0,0,24,NO,0,1,1,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+58,M,5,Dandora,,NO,4,NO,NO,,NO,NO,NO,0,2,2,0,0,0,1,0,0,20,NO,0,0,0,no,inf avanzato,1,diminuito,aperto,inverso,nasale,no,normale
+59,F,10,Dandora,,NO,4,NO,NO,,SI,SI,SI,1,2,2,0,0,0,0,0,0,24,NO,0,0,0,no,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+60,F,7,Dandora,,NO,4,NO,NO,,SI,NO,SI,1,1,1,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+61,F,7,Dandora,,NO,4,NO,SI,2,SI,NO,SI,0,1,1,0,0,0,0,1,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+62,F,9,Dandora,Mutilata braccio sx,NO,4,SI,SI,3,NO,SI,SI,1,1,1,2,0,0,6,0,0,24,NO,1,0,0,no,neutra,1,aumentato ,aperto,nessuno,nasale,deglutizione atipica,normale
+63,F,8,Dandora,,NO,4,NO,SI,2,SI,NO,NO,1,1,1,2,0,0,2,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+64,M,8,Dandora,,NO,4,NO,SI,2,SI,SI,NO,0,2,2,0,0,0,1,0,0,24,NO,0,1,1,smalto e dentina,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+65,M,7,Dandora,,NO,4,NO,NO,,NO,NO,NO,0,1,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+66,F,8,Dandora,,SI,4,NO,NO,,SI,NO,NO,1,2,1,0,0,0,4,0,0,24,SI,0,1,1,no,sup avanzato,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+67,M,7,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,2,2,0,0,0,2,3,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+68,F,8,Dandora,,SI,4,NO,SI,1,SI,NO,SI,0,1,1,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,1,normale,normale,nessuno,nasale,no,normale
+69,M,8,Dandora,,NO,4,NO,NO,,SI,SI,NO,1,2,2,0,0,0,4,2,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,sinistro,,,
+70,F,7,Dandora,,NO,4,NO,SI,1,SI,NO,SI,0,2,1,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+71,M,7,Dandora,,NO,4,NO,SI,1,SI,SI,SI,0,1,1,0,0,0,4,0,0,24,NO,0,1,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+72,M,7,Dandora,,NO,4,NO,SI,1,SI,NO,NO,0,2,2,0,0,0,11,0,0,24,NO,0,2,2,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+73,M,7,Dandora,,NO,4,NO,NO,,NO,NO,NO,0,2,1,0,0,0,3,0,0,24,NO,0,1,1,no,neutra,2,aumentato ,normale,nessuno,nasale,succhiotto_penne_labbro,linguale
+74,F,6,Dandora,,NO,4,NO,SI,2,SI,NO,NO,0,1,1,0,0,0,0,0,0,24,NO,1,0,0,no,neutra,1,normale,normale,nessuno,nasale,deglutizione atipica,normale
+75,M,10,Dandora,,NO,4,NO,SI,1,SI,SI,NO,0,1,1,1,0,0,3,0,0,24,NO,0,2,2,no,inf avanzato,1,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+76,M,4,Dandora,,NO,4,NO,SI,1,SI,NO,NO,0,1,1,0,0,0,5,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+77,F,10,Dandora,,NO,4,NO,SI,2,SI,SI,SI,0,1,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,normale,normale,nessuno,nasale,no,normale
+78,F,9,Dandora,,NO,4,NO,SI,3,SI,SI,SI,0,2,1,0,0,0,0,0,0,24,NO,1,1,2,no,inf avanzato,1,diminuito,aperto,nessuno,nasale,no,normale
+79,F,9,Dandora,,NO,4,NO,SI,3,SI,SI,SI,0,1,1,1,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,1,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+80,F,10,Dandora,,SI,4,NO,SI,2,NO,SI,NO,0,1,1,0,0,0,4,0,0,24,NO,0,0,0,smalto e dentina,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+81,F,10,Dandora,,NO,4,NO,SI,3,SI,SI,SI,0,2,1,2,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+82,F,13,Dandora,,NO,4,NO,SI,2,SI,SI,SI,0,3,2,3,0,0,0,0,0,28,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+83,M,11,Dandora,,NO,4,NO,SI,1,SI,SI,SI,1,1,1,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,1,normale,aperto,nessuno,nasale,no,normale
+84,F,133,Dandora,,NO,4,NO,NO,,SI,NO,NO,0,2,2,0,0,0,4,0,0,28,NO,0,0,0,no,inf avanzato,1,normale,aperto,nessuno,nasale,no,normale
+85,M,6,Korogocho,,NO,4,NO,SI,3,SI,NO,NO,0,1,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+86,M,8,Korogocho,,SI,4,NO,SI,2,NO,NO,NO,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+87,M,7,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,0,2,2,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+88,F,7,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,1,2,0,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+89,M,7,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,1,0,0,2,0,0,5,0,0,24,NO,0,0,0,solo smalto,neutra,2,normale,aperto,nessuno,nasale,no,normale
+90,M,8,Korogocho,,NO,4,NO,SI,3,SI,SI,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,normale
+91,M,9,Korogocho,,NO,4,NO,SI,3,SI,NO,SI,0,3,0,0,0,0,1,1,0,24,NO,0,0,2a,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+92,M,8,Korogocho,,NO,4,NO,SI,2,NO,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,2,diminuito,normale,sinistro,nasale,no,normale
+93,F,8,Korogocho,,NO,4,NO,SI,3,NO,NO,NO,0,1,0,1,0,0,6,0,0,24,NO,0,0,0,no,inf avanzato,2,diminuito,,nessuno,nasale,no,normale
+94,M,8,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,0,2,2,0,0,0,4,0,0,24,NO,0,0,0,no,inf avanzato,2,aumentato ,aperto,nessuno,nasale,deglutizione atipica,normale
+95,M,6,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,0,2,2,0,0,0,6,0,0,24,NO,0,0,0,no,neutra,0,normale ,,nessuno,nasale,no,normale
+96,M,7,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,1,1,0,0,0,0,3,0,0,24,NO,0,0,0,no,sup avanzato,0,normale,profondo,nessuno,nasale,no,normale
+97,F,5,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,1,2,2,0,0,0,0,0,0,20,NO,0,0,0,no,inf avanzato,2,diminuito,aperto,nessuno,nasale,no,normale
+98,M,7,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,0,2,0,0,0,0,1,0,0,24,NO,0,0,0,no,inf avanzato,2,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+99,M,7,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,1,2,2,1,0,0,6,0,1,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+100,F,7,Korogocho,,NO,4,NO,SI,2,SI,NO,NO,1,1,2,0,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,aperto,inverso,nasale,deglutizione atipica,normale
+101,M,7,Korogocho,,SI,4,NO,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+102,F,6,Alice Home,,NO,4,NO,SI,2,SI,SI,SI,0,2,0,0,0,0,10,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+103,M,3,Alice Home,,NO,4,,SI,1,SI,NO,NO,0,0,0,0,0,0,1,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+104,F,4,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,0,0,0,0,0,2,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+105,M,2,Alice Home,,SI,1,,SI,2,SI,NO,NO,0,0,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+106,F,5,Alice Home,,NO,4,,SI,1,SI,NO,SI,0,0,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+107,M,6,Alice Home,,NO,4,,SI,1,NO,NO,NO,0,0,0,0,0,0,0,0,0,24,SI,0,1,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+108,M,5,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,0,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+109,F,6,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,SI,0,2a,2a,no,neutra,2,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+110,F,6,Alice Home,,NO,4,,SI,2,SI,NO,SI,0,0,2,0,0,0,0,0,0,24,NO,0,0,1,no,neutra,2,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+111,F,5,Alice Home,,SI,4,,SI,2,SI,SI,NO,0,1,0,0,0,0,3,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+112,M,6,Alice Home,,NO,4,,SI,2,NO,SI,SI,0,0,0,0,0,0,4,0,0,24,NO,0,2a,0,no,inf avanzato,2,diminuito,profondo,inverso,nasale,succhiotto_penne_labbro,normale
+113,F,8,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,0,0,3,0,0,1,0,0,24,NO,0,0,2a,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+114,F,8,Alice Home,,NO,4,,SI,2,SI,SI,,0,0,0,0,0,0,0,0,0,24,NO,4,0,0,solo smalto,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+115,F,5,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,0,0,0,0,0,9,0,0,20,NO,0,0,0,no,inf avanzato,2,diminuito,normale,nessuno,nasale,no,normale
+116,M,8,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,2,0,1,0,0,3,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne_labbro,normale
+117,M,9,Alice Home,,NO,4,,SI,1,NO,NO,NO,0,3,0,3,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+118,F,6,Alice Home,,NO,4,,SI,1,SI,SI,SI,0,0,0,0,0,0,4,0,0,24,NO,3,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+119,M,9,Alice Home,,NO,4,,SI,2,NO,NO,SI,0,1,0,0,0,0,0,0,0,24,NO,2,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+120,M,8,Alice Home,,NO,4,,SI,2,SI,SI,SI,0,0,0,0,0,0,0,0,0,24,SI,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+121,M,6,Alice Home,,NO,4,,SI,1,SI,NO,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,solo smalto,sup avanzato,0,aumentato ,normale,nessuno,nasale,deglutizione atipica,normale
+122,M,9,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+123,F,10,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,3,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+124,M,5,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,20,NO,0,2,0,solo smalto,neutra,1,normale,normale,destro,nasale,deglutizione atipica,normale
+125,M,10,Alice Home,,NO,4,,SI,1,NO,NO,SI,0,3,0,2,0,0,4,0,2,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,linguale
+126,F,8,Alice Home,,SI,4,,SI,2,SI,NO,SI,0,1,0,0,0,0,1,0,0,24,NO,0,0,1,no,neutra,1,aumentato ,normale,nessuno,nasale,deglutizione atipica,normale
+127,F,11,Alice Home,,NO,4,,SI,2,NO,NO,SI,0,2,0,3,1,3,2,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+128,M,9,Alice Home,,SI,4,,SI,2,NO,SI,NO,0,1,0,0,0,1,0,0,0,24,NO,0,1,1,no,neutra,2,diminuito,normale,nessuno,nasale,deglutizione atipica,normale
+129,M,12,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,1,0,0,0,0,0,0,0,28,NO,0,0,2,no,neutra,2,normale,normale,nessuno,nasale,no,normale
+130,F,9,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,1,0,0,0,0,4,0,0,24,NO,2,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+131,M,10,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,1,0,1,0,0,0,0,0,24,NO,2,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+132,M,14,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,2,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+133,F,12,Alice Home,,NO,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,0,0,0,28,NO,0,0,0,solo smalto,neutra,0,normale,normale,nessuno,nasale,no,normale
+134,F,12,Alice Home,,SI,4,,SI,2,SI,SI,SI,0,1,0,0,0,0,0,0,0,28,NO,0,0,0,no,inf avanzato,2,diminuito,normale,nessuno,nasale,no,normale
+135,F,13,Alice Home,,NO,4,,SI,1,SI,SI,SI,0,2,1,2,0,0,0,0,0,28,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+136,M,11,Alice Home,,SI,4,,SI,2,NO,NO,NO,0,1,0,3,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+137,F,14,Alice Home,,NO,4,,SI,1,NO,SI,NO,0,2,1,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+138,F,14,Alice Home,,NO,4,,SI,2,NO,NO,SI,0,1,0,0,0,2,0,0,0,28,NO,0,0,1,no,neutra,2,normale,normale,nessuno,nasale,deglutizione atipica,normale
+139,F,12,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,2,0,0,0,2,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+140,F,16,Alice Home,,NO,4,,SI,2,NO,SI,NO,0,3,2,4,0,0,0,0,0,28,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+141,F,16,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,1,1,0,0,0,0,0,0,28,NO,1,0,0,no,neutra,2,diminuito,normale,nessuno,nasale,deglutizione atipica,normale
+142,F,14,Alice Home,,SI,4,,SI,2,NO,NO,NO,0,1,1,2,0,2,0,0,0,28,NO,2,0,0,no,neutra,2,diminuito,normale,nessuno,nasale,deglutizione atipica,normale
+143,F,16,Alice Home,,,4,,SI,1,SI,NO,NO,0,2,1,0,0,0,0,0,0,28,NO,5,0,0,no,neutra,2,normale,normale,nessuno,nasale,no,normale
+144,F,7,Korogocho,,NO,4,NO,SI,2,SI,NO,SI,0,2,0,0,1,0,0,1,0,24,NO,0,0,0,no,inf avanzato,2,aumentato  ,aperto,nessuno,nasale,no,tectolabiale
+145,F,7,Korogocho,,NO,4,NO,SI,3,SI,NO,SI,0,1,0,0,0,0,0,3,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+146,M,7,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+147,M,8,Korogocho,,NO,4,NO,SI,2,SI,SI,SI,1,3,0,0,1,0,0,4,0,24,NO,0,0,0,no,inf avanzato,2,normale,normale,nessuno,nasale,deglutizione atipica,normale
+148,F,7,Korogocho,,SI,4,NO,SI,2,SI,SI,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+149,M,7,Korogocho,,NO,4,NO,SI,2,SI,NO,NO,0,3,2,0,4,0,0,4,1,24,NO,0,0,0,no,neutra,2,aumentato ,normale,nessuno,nasale,no,normale
+150,M,8,Korogocho,,NO,4,,SI,2,SI,NO,SI,0,2,0,0,4,0,0,4,3,24,NO,0,0,2a,no,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+151,M,9,Korogocho,,NO,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+152,M,8,Korogocho,,NO,4,,SI,3,SI,NO,SI,0,2,0,0,0,0,0,0,0,24,NO,0,3,0,no,neutra,2,diminuito,normale,nessuno,nasale,no,normale
+153,F,6,Korogocho,,NO,4,,SI,2,SI,NO,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+154,M,8,Korogocho,,NO,4,,SI,3,SI,SI,SI,1,0,0,0,0,0,0,2,0,24,SI,0,0,0,smalto e dentina,neutra,2,normale,,nessuno,nasale,succhiotto_penne_labbro,normale
+155,M,7,Korogocho,,NO,4,,SI,2,NO,SI,SI,0,3,0,0,0,0,0,1,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+156,M,10,Korogocho,,NO,4,,SI,3,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+157,F,8,Korogocho,,NO,4,,SI,3,SI,NO,NO,0,1,0,0,0,0,0,2,0,24,NO,0,2,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+158,F,8,Korogocho,,SI,4,,SI,2,SI,SI,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne_labbro,normale
+159,M,7,Korogocho,,NO,4,,SI,3,SI,NO,NO,0,2,0,0,2,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+160,M,7,Korogocho,,NO,4,,SI,3,SI,NO,NO,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne_labbro,normale
+161,M,8,Korogocho,,NO,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne_labbro,normale
+162,F,8,Korogocho,,SI,4,,SI,2,SI,SI,NO,0,3,2,0,1,0,0,3,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne_labbro,normale
+163,M,6,Korogocho,,,4,NO,SI,3,NO,SI,SI,0,1,0,0,0,0,7,1,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+164,M,5,Korogocho,,,4,NO,SI,2,SI,NO,NO,0,1,0,0,0,0,3,0,0,20,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+165,M,6,Korogocho,,,4,,SI,2,NO,NO,NO,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,smalto e dentina,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+166,M,6,Korogocho,,,4,,SI,3,SI,NO,NO,0,2,2,0,0,0,5,0,0,24,NO,0,0,0,smalto e dentina,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+167,M,6,Korogocho,,,4,,SI,2,SI,NO,NO,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+168,M,7,Korogocho,,,4,,SI,3,SI,NO,SI,0,3,1,1,0,0,12,1,0,24,NO,2,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+169,M,6,Korogocho,,,4,,SI,2,NO,NO,NO,0,2,1,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+170,M,6,Korogocho,,,4,,SI,3,NO,NO,NO,0,2,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+171,M,7,Korogocho,,,4,,SI,3,NO,NO,NO,0,3,1,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+172,M,7,Korogocho,,,4,,SI,3,SI,SI,NO,0,3,1,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,sinistro,nasale,no,normale
+173,M,7,Korogocho,,,4,,SI,3,SI,NO,NO,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+174,M,7,Korogocho,,,4,,SI,1,NO,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,2a,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+175,M,6,Korogocho,,,4,,SI,2,SI,SI,NO,0,2,0,0,0,0,3,0,0,24,NO,0,2a,2,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+176,M,7,Korogocho,,,4,,SI,1,NO,NO,NO,0,2,0,2,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+177,M,7,Korogocho,,,4,,SI,2,SI,NO,SI,0,2,1,0,0,0,0,0,0,24,NO,1,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+178,M,7,Korogocho,,,4,,SI,1,SI,SI,SI,0,2,1,0,0,0,12,0,0,24,NO,0,0,0,no,neutra,0,normale,profondo,nessuno,nasale,no,normale
+179,M,6,Korogocho,,,4,,SI,3,SI,NO,SI,0,3,1,0,0,0,8,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+180,M,7,Korogocho,,,4,,SI,3,NO,NO,NO,0,2,1,0,0,0,0,0,0,24,NO,0,0,2,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+181,F,6,Korogocho,,,4,,SI,3,SI,SI,SI,0,2,0,0,0,0,10,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+182,F,6,Korogocho,,,4,,SI,2,SI,SI,NO,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,linguale
+183,F,6,Korogocho,,,4,,SI,2,SI,NO,SI,0,2,0,0,0,0,7,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+184,F,6,Korogocho,,,4,,SI,3,SI,NO,NO,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+185,F,6,Korogocho,,,4,,SI,3,NO,NO,SI,0,2,0,0,0,0,7,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+186,F,8,Korogocho,,,4,,SI,3,NO,SI,SI,0,2,0,0,0,0,5,2,0,24,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+187,F,7,Korogocho,,,4,,SI,3,NO,NO,NO,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+188,F,7,Korogocho,,,4,,SI,2,NO,NO,NO,1,2,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,destro,nasale,no,normale
+189,F,6,Korogocho,,,4,,SI,3,NO,NO,NO,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+190,F,6,Korogocho,,,4,,SI,3,SI,NO,NO,1,2,0,0,0,0,1,0,0,24,NO,0,2,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+191,F,8,Korogocho,,,4,,SI,3,SI,NO,NO,1,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+192,F,6,Korogocho,,,4,,SI,2,SI,NO,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,destro,nasale,no,normale
+193,F,7,Korogocho,,,4,,SI,2,NO,NO,NO,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,normale
+194,F,6,Korogocho,,,4,,SI,3,SI,NO,SI,0,3,0,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+195,F,6,Korogocho,,,4,,SI,1,NO,NO,NO,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+196,F,6,Korogocho,,,4,,SI,3,SI,SI,SI,0,3,1,1,0,0,1,0,0,24,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,linguale
+197,F,7,Korogocho,,,4,,SI,3,NO,NO,NO,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+198,F,7,Korogocho,,,4,,SI,2,NO,NO,NO,1,2,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+199,F,6,Korogocho,,,4,,SI,2,NO,NO,NO,0,2,0,2,0,0,1,0,0,24,NO,0,2a,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+200,F,7,Korogocho,,,4,,SI,2,SI,NO,SI,0,2,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+201,F,6,Korogocho,,,4,,SI,2,SI,SI,NO,0,2,0,0,0,0,2,0,0,24,NO,0,1,0,no,neutra,0,normale,aperto,destro,nasale,deglutizione atipica,normale
+202,F,6,Korogocho,,,4,,SI,2,NO,NO,SI,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+203,F,7,Korogocho,,,4,,SI,3,SI,NO,SI,1,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+204,F,7,Korogocho,,,4,,SI,2,SI,NO,NO,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,tectolabiale
+205,F,6,Korogocho,,,4,,SI,1,SI,NO,NO,1,0,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+206,F,7,Korogocho,,,4,,SI,2,SI,NO,NO,1,0,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+207,F,6,Korogocho,,,4,,SI,3,SI,NO,NO,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,sup avanzato,0,normale,aperto,nessuno,nasale,no,normale
+208,F,8,Korogocho,,,4,,SI,2,NO,NO,NO,1,2,0,0,0,0,1,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,inverso,nasale,no,tectolabiale
+209,F,7,Dandora,,,4,,SI,2,SI,NO,NO,0,1,0,0,0,0,5,0,0,24,NO,0,0,2,no,inf avanzato,0,normale,aperto,inverso,orale,no,normale
+210,M,5,Dandora,,,4,,SI,1,SI,SI,SI,0,3,1,0,0,0,15,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+211,F,5,Dandora,,,4,,SI,2,SI,NO,NO,1,2,0,0,0,0,0,0,0,20,NO,0,0,1a,no,neutra,0,normale,aperto,destro,nasale,no,normale
+212,M,5,Dandora,,,4,,SI,2,NO,NO,NO,1,1,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+213,F,5,Dandora,,,4,,SI,1,SI,SI,SI,1,2,0,0,0,0,7,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+214,M,5,Dandora,,,4,,SI,2,NO,NO,NO,0,1,0,0,0,0,1,0,0,20,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+215,F,5,Dandora,,,4,,NO,,NO,NO,NO,0,2,1,0,0,0,0,0,0,20,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+216,M,6,Dandora,,,4,,NO,,SI,SI,SI,0,3,1,0,0,0,12,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+217,M,5,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,1,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+218,F,4,Dandora,,,4,,NO,,SI,SI,SI,0,3,1,0,0,0,13,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+219,F,5,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,2,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+220,F,8,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+221,F,7,Dandora,,,4,,NO,,SI,NO,SI,0,2,0,0,0,0,5,0,0,24,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+222,F,6,Dandora,,,4,,NO,,SI,SI,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,2a,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+223,F,7,Dandora,,,4,,NO,,SI,SI,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+224,M,8,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,12,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,inverso,nasale,no,normale
+225,M,10,Dandora,,SI,4,,NO,,SI,SI,SI,1,3,1,0,0,0,0,0,0,24,NO,2,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+226,M,8,Dandora,,NO,4,,NO,,SI,NO,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+227,M,7,Dandora,,NO,4,,SI,1,SI,NO,NO,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+228,M,6,Dandora,,NO,4,,SI,3,SI,SI,SI,0,3,1,0,0,0,11,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+229,M,7,Dandora,,NO,4,,NO,,NO,NO,NO,0,2,0,0,0,0,2,0,0,24,NO,0,0,2,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+230,M,6,Dandora,,NO,4,,NO,,SI,NO,NO,0,1,0,0,0,0,6,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+231,F,5,Dandora,,NO,4,,SI,2,SI,NO,NO,1,1,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+232,F,7,Dandora,,SI,4,,NO,,SI,SI,NO,0,1,0,0,0,0,2,0,0,24,NO,0,0,2a,no,neutra,0,normale,normale,inverso,nasale,no,normale
+233,M,7,Dandora,,NO,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+234,M,6,Dandora,,NO,4,,NO,,SI,NO,SI,1,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+235,F,8,Dandora,,NO,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+236,F,7,Dandora,,NO,4,,SI,2,SI,SI,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+237,M,8,Dandora,,NO,4,,SI,2,SI,NO,SI,0,2,0,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+238,M,7,Dandora,,NO,4,,SI,1,SI,SI,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+239,M,4,Dandora,,NO,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,2,0,0,20,NO,0,0,0,no,inf avanzato,0,normale,aperto,nessuno,nasale,no,normale
+240,F,8,Dandora,,NO,4,,NO,,SI,SI,SI,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+241,F,8,Dandora,,NO,4,,SI,2,SI,SI,SI,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+242,F,8,Dandora,,NO,4,,NO,,SI,SI,NO,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,sup avanzato,0,normale,normale,nessuno,nasale,no,normale
+243,F,8,Dandora,,NO,4,,NO,,SI,SI,SI,0,1,0,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+244,F,9,Dandora,,NO,4,,SI,2,SI,NO,SI,0,3,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,2,normale,normale,nessuno,nasale,no,normale
+245,F,8,Dandora,,SI,4,,NO,,SI,NO,SI,0,1,0,0,0,0,2,0,0,24,NO,0,0,1a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+246,M,8,Dandora,,SI,4,,SI,,SI,NO,NO,1,0,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+247,F,7,Dandora,,NO,4,,SI,2,SI,NO,NO,0,2,1,0,0,0,1,0,0,24,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+248,M,7,Dandora,,NO,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+249,F,7,Dandora,,NO,4,,SI,1,SI,SI,NO,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,profondo,nessuno,nasale,deglutizione atipica,tectolabiale
+250,M,8,Dandora,,SI,4,,SI,1,SI,NO,SI,0,0,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+251,F,7,Dandora,,SI,4,,SI,2,SI,NO,NO,0,3,0,0,0,0,9,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+252,F,7,Dandora,,NO,4,,SI,2,SI,NO,SI,0,2,0,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+253,M,10,Dandora,,NO,4,,NO,,SI,SI,SI,1,3,1,0,0,0,3,0,0,24,NO,0,0,2a,smalto e dentina,neutra,0,normale,normale,nessuno,nasale,no,normale
+254,F,9,Dandora,,SI,4,,SI,2,SI,SI,NO,1,2,0,0,0,0,1,0,0,24,NO,1,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+255,F,7,Dandora,,SI,4,,NO,,SI,SI,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+256,F,10,Dandora,,NO,4,,SI,3,SI,NO,SI,0,2,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+257,F,11,Dandora,,SI,4,,SI,1,NO,SI,NO,0,2,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+258,F,12,Dandora,,SI,4,,SI,2,SI,SI,SI,0,2,0,0,0,0,0,0,0,28,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+259,F,9,Dandora,,NO,4,,SI,1,SI,SI,NO,0,2,0,0,0,0,3,0,0,24,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+260,F,12,Dandora,,SI,4,,SI,1,SI,SI,NO,0,2,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+261,M,11,Dandora,,NO,4,,SI,1,SI,NO,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+262,F,8,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,1,0,2,0,0,0,0,0,24,NO,4,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+263,F,10,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,2,0,0,0,3,2,0,24,NO,0,0,0,no,neutra,0,aumentato ,aperto,nessuno,nasale,no,normale
+264,F,12,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,1,0,0,0,0,0,0,0,28,NO,4,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+265,F,13,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,3,0,2,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+266,F,15,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,1,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,succhiotto_penne,normale
+267,F,12,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,1,0,0,0,0,0,0,0,28,NO,3,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+268,F,14,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,0,3,0,2,0,0,0,28,NO,2,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+269,F,14,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,0,0,0,1,0,0,0,28,NO,3,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+270,F,14,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,1,0,1,1,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+271,F,15,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,2,0,3,0,1,0,0,0,28,NO,0,0,2,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+272,M,12,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,3,1,0,0,0,0,0,0,28,NO,4,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+273,M,7,Korogocho,,SI,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,6,0,0,24,NO,0,2,0,no,sup avanzato,0,normale,normale,nessuno,nasale,no,normale
+274,M,6,Korogocho,,NO,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+275,F,8,Korogocho,,NO,4,,SI,1,SI,NO,NO,0,2,0,4,0,0,5,0,0,24,NO,0,0,2a,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+276,M,7,Korogocho,,NO,4,,SI,2,SI,SI,NO,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,dito,normale
+277,M,7,Korogocho,,NO,4,,NO,1,SI,SI,NO,0,2,0,2,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,,nessuno,nasale,no,normale
+278,M,7,Korogocho,,NO,4,,SI,3,SI,NO,SI,0,3,1,1,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,,nessuno,nasale,no,normale
+279,F,5,Korogocho,,NO,4,,NO,,NO,NO,NO,0,1,0,0,0,0,4,0,0,20,NO,0,0,0,no,neutra,0,normale,,nessuno,nasale,no,normale
+280,F,7,Korogocho,,NO,4,,SI,1,SI,NO,SI,0,2,0,0,0,0,5,0,0,24,NO,0,0,2a,no,neutra,0,normale,,nessuno,nasale,no,normale
+281,M,6,Korogocho,,NO,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,5,1,0,24,NO,0,0,0,no,neutra,0,normale,,nessuno,nasale,no,normale
+282,F,5,Korogocho,,SI,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,5,0,0,20,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+283,M,7,Korogocho,,NO,4,,NO,,SI,NO,SI,0,2,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+284,M,7,Korogocho,,NO,4,,SI,1,NO,SI,NO,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+285,M,6,Korogocho,,NO,4,,SI,1,SI,SI,NO,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,normale
+286,M,7,Korogocho,,SI,4,,SI,1,NO,SI,SI,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,profondo,nessuno,nasale,no,normale
+287,M,6,Korogocho,,NO,4,,NO,,SI,NO,NO,0,1,0,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+288,M,7,Korogocho,,SI,4,,NO,1,SI,SI,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,1,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+289,F,7,Korogocho,,SI,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,dito,normale
+290,F,6,Korogocho,,NO,4,,SI,1,SI,SI,SI,0,1,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,orale,deglutizione atipica,normale
+291,F,6,Korogocho,,SI,4,,NO,,SI,NO,SI,0,3,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+292,F,6,Korogocho,,SI,4,,SI,1,NO,NO,SI,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+293,F,6,Korogocho,,SI,4,,NO,,SI,NO,NO,0,3,1,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,tectolabiale
+294,F,6,Korogocho,,NO,4,,NO,,NO,NO,NO,1,3,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+295,F,6,Korogocho,,SI,4,,SI,2,SI,NO,NO,0,3,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+296,F,7,Korogocho,,NO,4,,SI,1,SI,NO,NO,0,3,1,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+297,F,7,Korogocho,,NO,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,3,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+298,F,6,Korogocho,,SI,4,,SI,1,SI,SI,SI,0,3,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+299,F,6,Korogocho,,NO,4,,SI,1,SI,NO,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+300,F,6,Korogocho,,NO,4,,SI,1,SI,NO,SI,0,3,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+301,F,7,Korogocho,,NO,4,,SI,1,NO,NO,NO,1,1,0,0,0,0,1,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,dito,normale
+302,F,6,Korogocho,,NO,4,,SI,1,SI,SI,SI,0,2,0,0,0,0,4,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,dito,normale
+303,F,7,Korogocho,,NO,4,,NO,,NO,SI,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,dito,normale
+304,F,7,Korogocho,,NO,4,,NO,,SI,SI,SI,0,2,0,0,0,0,7,0,0,24,NO,1,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+305,M,6,Korogocho,,NO,4,,NO,,NO,NO,NO,0,2,0,0,0,0,8,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+306,M,5,Korogocho,,SI,4,,NO,,NO,NO,NO,1,3,1,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+307,F,6,Korogocho,,NO,4,,SI,1,SI,SI,SI,0,2,0,0,0,0,2,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+308,F,6,Korogocho,,NO,4,,SI,1,SI,NO,SI,0,2,0,0,0,0,3,0,0,24,NO,0,0,0,no,inf avanzato,0,normale,aperto,nessuno,nasale,dito,normale
+309,M,6,Korogocho,,SI,4,,NO,,NO,SI,NO,0,3,1,0,0,0,6,0,0,24,NO,0,0,2,no,inf avanzato,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+310,F,6,Korogocho,,NO,4,,SI,1,SI,SI,SI,1,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+311,M,6,Korogocho,,NO,4,,SI,2,SI,SI,SI,0,2,0,0,0,0,5,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,deglutizione atipica,normale
+312,F,5,Dandora,,,4,,SI,2,NO,NO,NO,0,1,0,0,0,0,0,2,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+313,M,5,Dandora,,,4,,NO,,NO,SI,NO,0,0,0,0,0,0,0,4,0,20,NO,0,0,0,no,inf avanzato,2,normale,aperto,nessuno,nasale,no,normale
+314,M,8,Dandora,,,4,,NO,,NO,NO,NO,0,2,2,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+315,M,6,Dandora,,,4,,SI,2,NO,SI,SI,0,1,0,0,0,0,0,4,0,24,NO,0,0,2,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+316,F,5,Dandora,,,4,,NO,,SI,SI,NO,0,0,0,0,0,0,0,9,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+317,F,6,Dandora,,,4,,NO,,SI,SI,SI,0,0,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+318,M,5,Dandora,,,4,,SI,2,SI,SI,SI,0,0,0,0,0,0,0,12,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+319,F,5,Dandora,,,4,,NO,,SI,SI,SI,0,1,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+320,F,6,Dandora,,,4,,NO,,NO,NO,NO,0,1,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+321,F,10,Dandora,,,4,,NO,,???,???,???,0,2,0,0,0,0,0,5,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+322,F,6,Dandora,,,4,,SI,2,SI,SI,SI,0,3,0,0,0,0,0,0,0,24,NO,0,0,0,solo smalto,neutra,0,diminuito,aperto,nessuno,nasale,deglutizione atipica,normale
+323,M,7,Dandora,,,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,0,6,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+324,M,8,Dandora,,,4,,SI,1,SI,NO,NO,0,1,0,0,4,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+325,F,7,Dandora,,,4,,NO,,NO,NO,,0,0,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+326,F,5,Dandora,,,4,,NO,,SI,SI,SI,0,1,0,0,0,0,0,0,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+327,F,10,Dandora,,,4,,NO,,NO,SI,NO,0,3,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+328,F,12,Dandora,,,4,,NO,,SI,NO,SI,0,0,0,0,0,0,0,0,0,28,NO,0,0,2,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+329,M,6,Dandora,,,4,,NO,,SI,NO,SI,0,1,0,0,0,0,0,9,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+330,M,8,Dandora,,,4,,NO,,???,???,???,0,0,0,0,0,0,0,9,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+331,M,6,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,0,4,0,24,NO,0,0,0,no,inf avanzato,2,normale,aperto,nessuno,nasale,no,normale
+332,F,7,Dandora,,,4,,SI,1,SI,NO,SI,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+333,M,9,Dandora,,,4,,NO,,SI,NO,SI,0,0,0,0,0,0,0,5,0,24,NO,0,0,0,no,neutra,1,normale,normale,nessuno,nasale,no,normale
+334,F,5,Dandora,,,4,,SI,1,SI,SI,SI,0,3,0,0,0,0,0,1,0,20,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+335,F,4,Dandora,,,4,,SI,1,SI,NO,NO,0,1,0,0,0,0,0,9,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+336,M,7,Dandora,,,4,,SI,2,SI,SI,SI,0,1,0,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+337,F,3,Dandora,,SI,4,,NO,,SI,SI,SI,0,0,0,0,0,0,0,2,0,20,NO,0,0,2a,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+338,F,9,Dandora,,NO,4,,SI,2,SI,SI,SI,0,2,0,0,1,0,0,0,0,24,NO,0,0,0,no,neutra,1,normale,normale,nessuno,nasale,no,normale
+339,M,8,Dandora,,,4,,NO,,SI,SI,SI,0,2,2,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+340,M,10,Dandora,2,,4,,NO,,NO,NO,NO,0,1,0,0,0,0,0,1,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+341,F,8,Dandora,,,4,,NO,,???,???,???,0,2,0,0,0,0,0,2,0,24,NO,0,0,0,solo smalto,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+342,M,7,Dandora,,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+343,M,7,Dandora,,,4,,NO,,SI,NO,SI,0,2,0,0,0,0,0,2,0,24,NO,0,0,2,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+344,M,,Dandora,2,,4,,NO,,SI,SI,SI,0,2,0,0,0,0,0,0,0,,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,no,normale
+345,F,8,Dandora,,,4,,SI,1,SI,SI,SI,0,2,0,0,0,0,0,2,0,24,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+346,F,7,Dandora,,,4,,NO,,NO,SI,NO,0,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,normale,aperto,nessuno,nasale,deglutizione atipica,normale
+347,F,7,Dandora,,SI,4,,NO,,NO,SI,NO,0,2,0,0,0,0,0,4,0,24,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+348,M,7,Dandora,,SI,4,,SI,1,NO,NO,SI,0,1,0,0,0,0,0,2,0,24,NO,0,0,0,no,neutra,2,diminuito,aperto,nessuno,nasale,no,normale
+349,M,8,Dandora,,NO,4,,SI,1,SI,NO,NO,0,2,0,0,2,0,0,4,1,24,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+350,F,11,Dandora,,SI,4,,SI,1,SI,SI,NO,0,2,1,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,0,aumentato ,aperto,nessuno,nasale,no,normale
+351,F,12,Dandora,,NO,4,,SI,1,SI,SI,SI,1,0,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+352,F,5,Dandora,,SI,4,,SI,1,SI,SI,NO,1,1,0,0,0,0,0,6,0,20,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+353,M,10,Dandora,,SI,4,,SI,1,SI,SI,NO,1,2,0,0,0,0,0,0,0,24,NO,0,5,0,no,neutra,0,normale,profondo,nessuno,nasale,no,normale
+354,M,15,Alice Home,,SI,4,,SI,2,SI,SI,SI,1,3,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+355,M,16,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,2,0,0,2,0,0,0,0,28,NO,0,4,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+356,M,17,Alice Home,,NO,4,,SI,1,NO,SI,NO,0,2,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+357,F,9,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,2,0,0,1,0,0,0,0,24,NO,0,4,0,no,neutra,0,aumentato ,aperto,nessuno,nasale,no,normale
+358,F,12,Alice Home,,NO,4,,SI,2,SI,SI,SI,0,2,0,0,1,0,0,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+359,F,9,Alice Home,,NO,4,,SI,1,SI,NO,NO,0,2,0,0,2,0,0,3,0,24,NO,0,5,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+360,F,8,Alice Home,,SI,4,,SI,2,SI,NO,NO,0,2,0,0,0,0,0,0,0,24,NO,0,3,0,no,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+361,M,12,Alice Home,,SI,4,,SI,1,SI,SI,NO,0,0,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,1,normale,profondo,nessuno,nasale,no,normale
+362,F,15,Alice Home,,SI,4,,SI,2,SI,SI,NO,0,0,0,0,0,0,0,0,0,28,NO,0,0,0,no,sup avanzato,0,aumentato ,normale,nessuno,nasale,no,normale
+363,M,15,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,3,0,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,2,normale,aperto,nessuno,nasale,no,normale
+364,M,13,Alice Home,,NO,4,SI,SI,1,SI,NO,NO,0,0,0,0,2,0,1,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+365,M,15,Alice Home,,NO,4,SI,SI,2,SI,NO,NO,0,3,0,0,0,0,1,0,0,28,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,normale
+366,M,12,Alice Home,,NO,4,,SI,2,SI,SI,SI,0,3,0,0,1,0,0,0,0,28,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,deglutizione atipica,linguale
+367,F,12,Alice Home,,NO,4,,SI,2,SI,SI,NO,0,2,0,0,0,0,0,0,0,28,NO,0,3,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
+368,M,13,Alice Home,,NO,4,,SI,2,SI,NO,NO,0,3,0,0,1,0,0,0,0,28,NO,0,0,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+369,M,16,Alice Home,,NO,4,,SI,1,NO,NO,NO,0,2,0,0,0,0,0,0,0,28,NO,0,1,0,no,inf avanzato,0,normale,normale,nessuno,nasale,no,normale
+370,M,16,Alice Home,,SI,4,,SI,2,SI,NO,NO,1,2,0,0,0,0,2,0,0,28,NO,0,0,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+371,F,11,Alice Home,,NO,4,,SI,2,NO,SI,SI,1,2,0,0,0,0,0,0,0,24,NO,0,0,0,no,neutra,1,aumentato ,normale,nessuno,nasale,no,normale
+372,F,16,Alice Home,,SI,4,,SI,2,NO,SI,NO,0,2,2,0,0,0,0,0,0,28,NO,0,0,0,no,neutra,0,,normale,nessuno,nasale,no,normale
+373,F,13,Alice Home,,SI,4,,SI,1,NO,NO,NO,0,1,0,0,0,0,0,0,0,28,NO,0,5,0,no,neutra,0,normale,normale,nessuno,nasale,no,normale
+374,F,13,Alice Home,,NO,4,,SI,1,SI,NO,SI,0,2,0,0,0,0,2,0,0,28,NO,0,4,0,no,neutra,0,aumentato ,normale,nessuno,nasale,no,normale
